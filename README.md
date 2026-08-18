@@ -2,8 +2,8 @@
  
 A bullet-heaven game built in Unreal Engine 5. University team project, 04/2025 – 05/2025, team of 3
 
-**<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/00ec996f-c67c-42a0-be1d-2c7ff682cf3c" />
-*
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/00ec996f-c67c-42a0-be1d-2c7ff682cf3c" />
+
 
 ## What it is
  
