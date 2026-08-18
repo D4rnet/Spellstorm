@@ -14,7 +14,8 @@ You fight escalating waves of enemies with automatic weapons, picking up items a
 - **D4rnet** — gameplay programming and game design
 - **ShkiperD3** — UX/UI and game design
 - **darkmagicmods** — level design and game design
-## What I built
+
+## What I (D4rnet) built
  
 - **Character progression** — the hero stat structure (HP, Speed, Damage) as an extensible base, so new items and upgrades could hook into it without reworking the system.
 - **Combat** — three distinct fire modes, tuned for readability and impact with around 50 enemies on screen simultaneously.
