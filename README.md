@@ -11,7 +11,7 @@ You fight escalating waves of enemies with automatic weapons, picking up items a
  
 ## Credits
  
-- **D4rnet** — gameplay programming and game design
+- **[D4rnet](https://github.com/D4rnet)** — gameplay programming and game design
 - **ShkiperD3** — UX/UI and game design
 - **darkmagicmods** — level design and game design
 
